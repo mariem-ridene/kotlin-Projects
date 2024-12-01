@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892070046717",
+    "project_id": "healthystyleapp-888ac",
+    "storage_bucket": "healthystyleapp-888ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892070046717:android:712b77fa93d181433f8794",
+        "android_client_info": {
+          "package_name": "com.example.healthystyleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeI7cI1tm80oTbTWALqIzO83m-HBBPtzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
